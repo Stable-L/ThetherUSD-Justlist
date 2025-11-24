@@ -5,11 +5,11 @@ thetherusd.justlist.json
   "tokens": [
     {
       "chainId": 728126428, 
-      "address": "TS19aXnBLtsS7xxxxxxx", 
+      "address": "TS19aXnBLtsS7a243wT3NHevPhVLrEK3Cu", 
       "name": "Thether USD",
       "symbol": "USDT Trc2O",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/USERNAME/thetherusd-justlist/main/logo.png"
+      "logoURI": "https://github.com/Stable-L/ThetherUSD-Justlist/blob/075db46c902c766f4933573b73c44c0c260eab59/logo.png"
     }
   ]
 }
