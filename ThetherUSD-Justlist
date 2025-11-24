@@ -1,0 +1,15 @@
+thetherusd.justlist.json
+{
+  "name": "Thether USD Token List",
+  "timestamp": "2025-01-01T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 728126428, 
+      "address": "TS19aXnBLtsS7xxxxxxx", 
+      "name": "Thether USD",
+      "symbol": "USDT Trc2O",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/USERNAME/thetherusd-justlist/main/logo.png"
+    }
+  ]
+}
