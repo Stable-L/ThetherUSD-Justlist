@@ -9,7 +9,7 @@ thetherusd.justlist.json
       "name": "Thether USD",
       "symbol": "USDT Trc2O",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/USERNAME/thetherusd-justlist/main/logo.png"
+      "logoURI": "https://github.com/Stable-L/ThetherUSD-Justlist/blob/807cb2435d4e73aea3e045a650b000f647412fd5/logo.png"
     }
   ]
 }
